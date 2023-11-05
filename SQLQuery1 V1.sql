@@ -1,3 +1,5 @@
+git rm unwanted-file.txt
+
 select*
 from [Portfolio project]..CovidDeaths
 where continent is not null
